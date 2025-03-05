@@ -1,4 +1,5 @@
 import os
+from modulo1 import ingresar_ventas
 
 
 def limpiar_terminal():
@@ -26,6 +27,7 @@ def menu():
         if opcion == "1":
             limpiar_terminal()
             print("\n--- Ingreso de Ventas ---")
+            
             #ingresar_datos
             pausar()
         elif opcion == "2":

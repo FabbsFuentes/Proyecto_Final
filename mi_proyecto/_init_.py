@@ -1,0 +1,1 @@
+#Hace que la carpeta se trate como un archivo
